@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Using Google applications makes life very easy*
+
+**Strong passion for learning french**
+
+_The best programming language is definitely **Python** No two ways about it._
