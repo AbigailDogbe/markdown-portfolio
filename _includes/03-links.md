@@ -1,1 +1,1 @@
-![Abigail Mesrenyame Dogbe] (https://github.com/AbigailDogbe)
+![Abigail Mesrenyame Dogbe](https://github.com/AbigailDogbe).
